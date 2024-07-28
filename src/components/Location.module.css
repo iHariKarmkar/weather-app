@@ -1,0 +1,31 @@
+.location-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 5rem;
+    color: var(--text-500);
+}
+
+.location-section h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.country {
+    font-size: .8rem;
+    margin-left: .5rem;
+}
+
+.location-section p {
+    margin: 0;
+    font-size: 10px;
+    color: var(--text-300);
+}
+
+.temp {
+    font-size: 3rem;
+}
+
+.temp span {
+    font-size: 1.5rem;
+}
